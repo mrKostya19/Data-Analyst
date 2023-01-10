@@ -4,5 +4,5 @@
 
 | Имя папки                                                                                          | Описание                                                  | 
 | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
-| [Data Analyst projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects)   | Выполненные проекты за время обучения в курсе "Аналитик данных" Яндекс. Практикум и за его пределами|
-| [Python projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Python%20projects)             | Проекты и небольшие игры написанные на языке Python |
+| [Проекты "Аналитик данных"](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects)   | Выполненные проекты за время обучения в курсе "Аналитик данных" Яндекс. Практикум и за его пределами|
+| [Проекты Python](https://github.com/mrKostya19/Data-Analyst/tree/main/Python%20projects)             | Проекты и небольшие игры написанные на языке Python |
