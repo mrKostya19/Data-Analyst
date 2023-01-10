@@ -1,8 +1,8 @@
-# Data Analyst repository
-This repository contains 2 folders with projects:
+# Облако "Аналитик данных"
+В GitHub находится 2 папки с данными:
 
 
-| Folder name                                                                                           | Description                                                   | 
+| Имя папки                                                                                          | Описание                                                  | 
 | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
-| [Data_Analyst_projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects)   | Completed projects on DA in the Yandex Practicum course and    beyond this course|
-| [Python projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Python%20projects)             | Projects and small games written by Python |
+| [Data Analyst projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects)   | Выполненные проекты за время обучения в курсе "Аналитик данных" Яндекс. Практикум и за его пределами|
+| [Python projects](https://github.com/mrKostya19/Data-Analyst/tree/main/Python%20projects)             | Проекты и небольшие игры написанные на языке Python |
