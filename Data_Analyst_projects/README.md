@@ -1,8 +1,8 @@
-# Structure of data analytics projects
+# Структура проектов "Аналитик данных"
 
 
-These projects were completed during the course "Data Analyst" Yandex. Praktikum
+Следующие проекты были выполнены в ходе обучения на курсе "Аналитик данных" Яндекс. Практикум
 
-| Name of project | Description | Used libraries |
+| Название проекта | Описание | Используемые библиотеки |
 |:----------------|:------------|:---------------|
-| [big_city_music](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects/big_city_music) | Testing the following hypotheses on Yandex Music data: <br/> 1. User activity depends on the day of the week. <br/> 2. Depending on the city and the day of the week, different genres prevail. <br/> 3. Moscow and St. Petersburg prefer different genres of music. | pandas |
+| [Музыка больших городов](https://github.com/mrKostya19/Data-Analyst/tree/main/Data_Analyst_projects/big_city_music) | Проверка следующих гипотез на данных Яндекс Музыки: <br/> 1. Активность пользователей зависит от дня недели. <br/> 2. В зависимости от города и дня недели преобладают разные жанры. <br/> 3. Москва и Петербург предпочитают разные жанры музыки. | pandas |
