@@ -25,16 +25,6 @@
 - seats — количество посадочных мест.
 
 ## Используемые библиотеки и методы
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from plotly import graph_objects as go
-import numpy as np
-import json
-from folium import Map, Marker, Choropleth
-from folium.plugins import MarkerCluster
-from folium.features import CustomIcon
-
 Проект направлен на закрепление навыков по работе с анализом данных и продвинутой визуализации. В работе определяются 4 основных шага:
 1. Загрузка и знакомство с данными
     - использование функций и методов `head(), info(), isna(), duplicated(), value_counts()`, создание авторских функций, 
